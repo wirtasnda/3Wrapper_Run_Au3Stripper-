@@ -1,0 +1,2 @@
+# 3Wrapper_Run_Au3Stripper-
+#AutoIt3Wrapper_Run_Au3Stripper=                 ;(Y/N) Run Au3Stripper before compilation. default=N #Au3Stripper_Parameters=                         ; Au3Stripper parameters...see SciTE4AutoIt3 Helpfile for options #AutoIt3Wrapper_Au3stripper_OnError=             ;(C/S/ForceUse) Continue/Stop on Errors/Continue using stripped source in Exe (Default=C) ; AU3Check settings
